@@ -12,12 +12,16 @@ body
 #cabecera
 {
     background: #37488b;
+<<<<<<< HEAD
     
+=======
+>>>>>>> footer
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em 0 0.5em 2em;
+<<<<<<< HEAD
 }
 
 #cabecera #logo
@@ -26,6 +30,16 @@ body
     vertical-align: middle;
 }
 
+=======
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
+>>>>>>> footer
 
 
 #cabecera #tagline
@@ -53,4 +67,15 @@ body
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
+=======
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> footer
 }
