@@ -9,5 +9,6 @@ Este es un blog creado para el curso de Git/GitHub.
 * El verdadero amor por las prácticas
 * Trucos locos
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 **Este readme es de prueba**. Diseñado como práctica para el curso.
