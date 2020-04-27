@@ -8,5 +8,6 @@ Este es un blog creado para el curso de Git/GitHub.
 * Flujo de trabajo de GitHub
 * El verdadero amor por las prácticas
 * Trucos locos
+* Creado por el increible Platzi Team
 
-**Este readme es de prueba**. Diseñado como práctica para el curso, y para decirle a mi novia María que la extraño mucho 💗.
+**Este readme es de prueba**. Diseñado como práctica para el curso.
